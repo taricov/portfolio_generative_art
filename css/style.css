@@ -75,7 +75,7 @@ small{
 }
 .title__wrapper{
     font-size: var(--fs-3);
-margin: var(--gutter-1) auto;
+margin: var(--gutter-1) auto var(--gutter-0);
 text-transform: capitalize;
 }
 .subtitle__container{
